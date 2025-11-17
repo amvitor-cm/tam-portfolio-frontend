@@ -1,4 +1,4 @@
-![Website Preview](https://raw.githubusercontent.com/amvitor-cm/tam-portfolio-frontend/main/tam11.jng)
+![Website Preview](https://raw.githubusercontent.com/amvitor-cm/tam-portfolio-frontend/main/tam11.jpg)
 
 
 # Tam Portfolio - Professional Frontend Developer
