@@ -78,7 +78,7 @@ The project is automatically deployed via Vercel with continuous integration fro
 
 ## Contact
 
-- **Email**: amvitor.cn@gmail.com
+- **Email**: amvitor.cm@gmail.com
 - **GitHub**: [amvitor-cm](https://github.com/amvitor-cm)
 - **X/Twitter**: [amvitor_cmd](https://x.com/amvitor_cmd)
 
