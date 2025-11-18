@@ -73,7 +73,7 @@ This project uses modern development practices:
 
 ## Security Note
 
-The main source code repository is private. This public repository contains a limited version with sensitive information (API keys, environment variables) removed for security purposes.
+The main source code repository is private. This public repository contains a limited version with some information removed for security purposes.
 
 ## Build and Deployment
 
